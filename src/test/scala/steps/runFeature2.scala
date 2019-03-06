@@ -11,9 +11,7 @@ import org.junit.runner.RunWith
   plugin = Array("pretty",
     "html:target/test",
     "json:target/test.json"),
-  tags = Array("@tag"),
+  tags = Array("@feature2"),
   strict = true
 )
-class RunTestFeatures
-
-
+class runFeature2

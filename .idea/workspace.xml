@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55b966f7-0b85-43d4-8525-97806726a148" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__cglib_cglib_nodep_2_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_gson_gson_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_19_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_cucumber_cucumber_java_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_cucumber_cucumber_junit_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_cucumber_cucumber_picocontainer_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_3_5_7_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jna_jna_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jna_jna_platform_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_cssparser_cssparser_0_9_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_2_18_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_core_js_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_nekohtml_nekohtml_1_9_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_exec_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_io_9_2_12_v20150709_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_util_9_2_12_v20150709_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_2_12_v20150709_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_2_12_v20150709_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_2_12_v20150709_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_bson_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_mongodb_driver_async_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_mongodb_driver_core_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_picocontainer_picocontainer_2_15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_api_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_edge_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_htmlunit_driver_2_52_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_ie_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_java_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_leg_rc_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_remote_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_safari_driver_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_support_2_53_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_w3c_css_sac_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_serializer_2_7_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_xalan_2_7_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_4_01_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ScalaBDDFinal-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ScalaBDDFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/feature2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/feature3.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/feature4.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/pages/Page.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/feature1Steps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/feature2Steps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/feature3Steps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/feature4Steps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/runFeature2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/runFeature3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/steps/runFeature4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/utils/Driver.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/TestFeature.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/feature1.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/steps/CommonSteps.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/steps/RunTestFeatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/steps/runFeature1.scala" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#15#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/feature1.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature3Steps.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="113" column="11" selection-start-line="113" selection-start-column="11" selection-end-line="113" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#15#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature4.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/pages/Page.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+              <folding>
+                <element signature="e#15#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature1Steps.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+              <folding>
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature2Steps.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+              <folding>
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/utils/Driver.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#15#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/TestFeature.feature" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/RunTestFeatures.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/CommonSteps.scala" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/feature1.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/feature2.feature" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/runFeature2.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/runFeature3.scala" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/feature3.feature" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/runFeature1.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/utils/Driver.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/feature3Steps.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/feature2Steps.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/steps/feature1Steps.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/pages/Page.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="19" />
+    <option name="y" value="43" />
+    <option name="width" value="1834" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaBDDFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaProject-endOfSprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551872503843" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.runFeature3">
+    <configuration name="Feature: TestFeature" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/TestFeature.feature" />
+      <option name="GLUE" value="/scala/steps/" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="ScalaBDDFinal" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TestFeature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runFeature1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaBDDFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.runFeature1" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runFeature2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaBDDFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.runFeature2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runFeature3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaBDDFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.runFeature3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: TestFeature" />
+      <item itemvalue="JUnit.runFeature1" />
+      <item itemvalue="JUnit.runFeature2" />
+      <item itemvalue="JUnit.runFeature3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.runFeature3" />
+        <item itemvalue="JUnit.runFeature2" />
+        <item itemvalue="JUnit.runFeature1" />
+        <item itemvalue="Cucumber java.Feature: TestFeature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ScalaBDDFinal" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaproject-endofsprint [file:/Users/natalialyaskina/ScalaProjects/ScalaProject-endOfSprint/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ScalaBDDFinal-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2576011559" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Scala-SBT/sbt-cucumber" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cucumber" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../my-g8-testproject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/firstscalatestproject" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b966f7-0b85-43d4-8525-97806726a148" name="Default Changelist" comment="" />
+      <created>1551456956280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551456956280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="runFeature2 - 2019.03.05 at 17h 00m 49s.xml">
+      <configuration name="runFeature2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature2 - 2019.03.05 at 17h 02m 06s.xml">
+      <configuration name="runFeature2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature2 - 2019.03.05 at 17h 04m 32s.xml">
+      <configuration name="runFeature2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature3 - 2019.03.06 at 09h 37m 40s.xml">
+      <configuration name="runFeature3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature3 - 2019.03.06 at 09h 38m 46s.xml">
+      <configuration name="runFeature3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature3 - 2019.03.06 at 09h 41m 01s.xml">
+      <configuration name="runFeature3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature1 - 2019.03.06 at 11h 03m 27s.xml">
+      <configuration name="runFeature1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature1 - 2019.03.06 at 11h 20m 51s.xml">
+      <configuration name="runFeature1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature2 - 2019.03.06 at 11h 21m 20s.xml">
+      <configuration name="runFeature2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runFeature3 - 2019.03.06 at 11h 21m 52s.xml">
+      <configuration name="runFeature3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="19" y="43" width="1834" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24107143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41212872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3279703" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.21782178" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3279703" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3279703" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24107143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41212872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3290441" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.2180268" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32886723" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3279703" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/feature4.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature4Steps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ScalaTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/feature2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/feature3.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/utils/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature3Steps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="113" column="11" selection-start-line="113" selection-start-column="11" selection-end-line="113" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature2Steps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/pages/Page.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#15#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/feature1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/runFeature1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#15#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/steps/feature1Steps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

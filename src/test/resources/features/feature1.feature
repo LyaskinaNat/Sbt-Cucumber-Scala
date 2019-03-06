@@ -1,5 +1,5 @@
-@tag
-Feature: Test feature
+@feature1
+Feature: Test feature 1
 
   Scenario: search for socks
     Given that i am on the amazon website
