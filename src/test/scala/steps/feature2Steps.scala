@@ -10,6 +10,7 @@ class feature2Steps extends ScalaDsl with EN with Matchers
   val expectedUrl: String = "https://www.udemy.com"
   var actualUrl: String = ""
 
+
   /*val driverPath = "/Users/natalialyaskina/Downloads/chromedriver-2"
   val chromeOptions = new ChromeOptions
   System.setProperty("webdriver.chrome.driver", driverPath)
@@ -48,7 +49,7 @@ class feature2Steps extends ScalaDsl with EN with Matchers
   Given("""that i am on the google search""")
   {
     () =>
-
+  //    Page.openBrowser()
       Page.navigateToPage("https://www.google.com/")
 
       //Wait for 1000 ms
@@ -109,7 +110,7 @@ class feature2Steps extends ScalaDsl with EN with Matchers
 
       Thread.sleep(1000)
 
-      Page.driverQuit()
+
 
   }
 

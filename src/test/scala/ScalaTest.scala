@@ -1,3 +1,4 @@
+/*
 import org.scalatest.{FlatSpec, Matchers}
 
 class ScalaTest extends FlatSpec with Matchers {
@@ -6,3 +7,4 @@ class ScalaTest extends FlatSpec with Matchers {
     1 shouldBe 1
   }
 }
+*/

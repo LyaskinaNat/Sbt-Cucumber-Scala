@@ -6,12 +6,14 @@ import org.scalatest.Matchers
 import pages.Page
 
 
+
 class feature3Steps extends ScalaDsl with EN with Matchers
 {
 
 
   val expectedUrl: String = "https://www.udemy.com"
   var actualUrl: String = ""
+
   /*val driverPath = "/Users/natalialyaskina/Downloads/chromedriver-2"
   val chromeOptions = new ChromeOptions
   System.setProperty("webdriver.chrome.driver", driverPath)
@@ -44,8 +46,8 @@ class feature3Steps extends ScalaDsl with EN with Matchers
   def driverQuit():Unit = {
     driver.close()
     driver.quit()
-  }*/
-
+  }
+*/
 
   Given("""that i am on the google home page""")
   {

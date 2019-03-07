@@ -1,4 +1,4 @@
-package steps
+package runners
 
 import cucumber.api.CucumberOptions
 import cucumber.api.junit.Cucumber
@@ -11,10 +11,7 @@ import org.junit.runner.RunWith
   plugin = Array("pretty",
     "html:target/test",
     "json:target/test.json"),
- tags = Array("@feature1"),
-    strict = false
-
+  tags = Array("@feature3"),
+  strict = true
 )
-class runFeature1
-
-
+class runFeature3

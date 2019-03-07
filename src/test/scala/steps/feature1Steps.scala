@@ -5,17 +5,26 @@ import org.junit.Assert
 import org.scalatest.Matchers
 import pages.Page
 
+
 class feature1Steps extends ScalaDsl with EN with Matchers
 {
 var selectedSocks: String = ""
 var link: String = ""
+
   /*val expectedUrl: String = "https://www.udemy.com"
   var actualUrl: String = ""
   val driverPath = "/Users/natalialyaskina/Downloads/chromedriver-2"
   val chromeOptions = new ChromeOptions
   System.setProperty("webdriver.chrome.driver", driverPath)
-  val driver = new ChromeDriver()
+  var driver = new ChromeDriver()
   driver.manage().window().maximize()
+
+  def openBrowser() :Unit = {
+    if (driver == null) {
+      driver = new ChromeDriver()
+    }
+  }
+
   def getTitle() = {
     driver.getTitle
   }
@@ -49,7 +58,7 @@ var link: String = ""
   Given("""that i am on the amazon website""")
   {
     () =>
-
+   //   Page.openBrowser()
       Page.navigateToPage("https://www.amazon.co.uk/")
 
       //Wait for 1000 ms
@@ -111,7 +120,7 @@ var link: String = ""
 
      Thread.sleep(1000)
 
-      Page.driverQuit()
+
 
   }
 
